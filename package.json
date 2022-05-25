@@ -5,6 +5,7 @@
   "scripts": {
     "serve": "vite preview --port 8081",
     "build": "vite build",
+    "preview": "vite preview",
     "lint": "vue-cli-service lint",
     "dev": "vite --port 3001"
   },
